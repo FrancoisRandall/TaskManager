@@ -46,6 +46,8 @@ The login details and tasks will be stored on 2 seperate txt file respectfully.
 * Dsiplays how many users have been written to the external file
 * Dsiplays how many tasks have been written to the external file
 
+### Exit
+* Logs you out of the program/menu
 
 **In order to run this program, follow the below steps:**
 
