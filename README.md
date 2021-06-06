@@ -55,7 +55,7 @@ The login details and tasks will be stored on 2 seperate txt file respectfully.
 * Copy the code provided
 * Paste the code in the code editor
 * Create the file 'user.txt' and 'tasks.txt' in the same folder where the IDLE file is
-* Add the first user directly to 'user.txt' in this exact format - "admin, amd1n"
+* Add the first user directly to 'user.txt' in this exact format - "admin, adm1n"
 * Save the 'user.txt' file
 * Run the program
 * Login using the above login details
